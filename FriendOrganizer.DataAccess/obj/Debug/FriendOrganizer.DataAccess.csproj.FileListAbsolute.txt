@@ -1,0 +1,16 @@
+C:\Users\Viktor\Desktop\UISetup\FriendOrganizer.DataAccess\bin\Debug\FriendOrganizer.DataAccess.dll.config
+C:\Users\Viktor\Desktop\UISetup\FriendOrganizer.DataAccess\bin\Debug\FriendOrganizer.DataAccess.dll
+C:\Users\Viktor\Desktop\UISetup\FriendOrganizer.DataAccess\bin\Debug\FriendOrganizer.DataAccess.pdb
+C:\Users\Viktor\Desktop\UISetup\FriendOrganizer.DataAccess\bin\Debug\EntityFramework.dll
+C:\Users\Viktor\Desktop\UISetup\FriendOrganizer.DataAccess\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Viktor\Desktop\UISetup\FriendOrganizer.DataAccess\bin\Debug\FriendOrganizer.Model.dll
+C:\Users\Viktor\Desktop\UISetup\FriendOrganizer.DataAccess\bin\Debug\FriendOrganizer.Model.pdb
+C:\Users\Viktor\Desktop\UISetup\FriendOrganizer.DataAccess\bin\Debug\EntityFramework.xml
+C:\Users\Viktor\Desktop\UISetup\FriendOrganizer.DataAccess\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Viktor\Desktop\UISetup\FriendOrganizer.DataAccess\obj\Debug\FriendOrganizer.DataAccess.csprojAssemblyReference.cache
+C:\Users\Viktor\Desktop\UISetup\FriendOrganizer.DataAccess\obj\Debug\FriendOrganizer.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Viktor\Desktop\UISetup\FriendOrganizer.DataAccess\obj\Debug\FriendOrganizer.DataAccess.csproj.CopyComplete
+C:\Users\Viktor\Desktop\UISetup\FriendOrganizer.DataAccess\obj\Debug\FriendOrganizer.DataAccess.dll
+C:\Users\Viktor\Desktop\UISetup\FriendOrganizer.DataAccess\obj\Debug\FriendOrganizer.DataAccess.pdb
+C:\Users\Viktor\Desktop\UISetup\FriendOrganizer.DataAccess\obj\Debug\FriendOrganizer.DataAccess.Migrations.InitialDatabase.resources
+C:\Users\Viktor\Desktop\UISetup\FriendOrganizer.DataAccess\obj\Debug\FriendOrganizer.DataAccess.csproj.GenerateResource.cache
